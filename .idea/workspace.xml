@@ -5,22 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fad7bc80-8c96-4c8a-83f6-33061bff2057" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weui.wxss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/app.wxss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index/index.json" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index/index.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index/index.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index/index.wxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index/index.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index/index.wxss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/logs/logs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/logs/logs.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/logs/logs.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/logs/logs.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project.config.json" beforeDir="false" afterPath="$PROJECT_DIR$/project.config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/util.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/util.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -60,14 +45,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/index/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+            <state relative-caret-position="182">
+              <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project.config.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="42" column="1" lean-forward="true" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -77,6 +71,18 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="260">
               <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="78">
+                <caret line="3" column="30" lean-forward="true" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -94,7 +100,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/utils/util.js" />
         <option value="$PROJECT_DIR$/pages/logs/logs.js" />
         <option value="$PROJECT_DIR$/pages/logs/logs.wxml" />
@@ -105,13 +110,15 @@
         <option value="$PROJECT_DIR$/pages/index/index.wxml" />
         <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/pages/index/index.js" />
+        <option value="$PROJECT_DIR$/project.config.json" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="138" />
-    <option name="y" value="50" />
-    <option name="width" value="1649" />
+    <option name="x" value="157" />
+    <option name="y" value="55" />
+    <option name="width" value="1650" />
     <option name="height" value="980" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -186,16 +193,18 @@
       <updated>1559048241644</updated>
       <workItem from="1559048242856" duration="7255000" />
       <workItem from="1559111315059" duration="2244000" />
+      <workItem from="1559135854817" duration="2688000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9499000" />
+    <option name="totallyTimeSpent" value="12187000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="111" y="40" width="1319" height="784" extended-state="0" />
+    <frame x="126" y="44" width="1320" height="784" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23538582" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23520249" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -207,7 +216,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3297546" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3297546" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -218,16 +227,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="52">
-            <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/logs/logs.js" />
     <entry file="file://$PROJECT_DIR$/pages/logs/logs.json" />
     <entry file="file://$PROJECT_DIR$/pages/logs/logs.wxml" />
@@ -297,11 +296,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/index/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        <state relative-caret-position="182">
+          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="42" column="1" lean-forward="true" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="78">
+            <caret line="3" column="30" lean-forward="true" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
