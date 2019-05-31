@@ -93,9 +93,9 @@ Page({
                 // 与后台接收图片文件的参数名相同
                 name: 'file',
                 success: res => {
-                    console.log(res)
                     // 将服务器返回的结果转换成为JSON对象
                     var response = JSON.parse(res.data)
+                    console.log('图片' + (index + 1) +  '上传成功')
                     console.log(response)
                     if (response.code === app.globalData.code.SUCCESS) {    // 操作成功
                         that.setData({

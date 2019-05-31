@@ -1,13 +1,16 @@
+<!--pages/index/index.wxml-->
 <view class="container">
     <view class="weui-cells">
         <view class="weui-cell">
             <view class="weui-cell__bd">
                 <view class="weui-uploader">
+                    <!-- 小标题 -->
                     <view class="weui-uploader__hd">
                         <view class="weui-uploader__title">图片上传</view>
                         <view class="weui-uploader__info">{{files.length}}/{{max}}</view>
                     </view>
                     <view class="weui-uploader__bd">
+                        <!-- 图片回显区域 -->
                         <view class="weui-uploader__files" id="uploaderFiles">
                             <block wx:for="{{files}}" wx:key="*this">
                                 <view class="weui-uploader__file" bindtap="previewImage" id="{{item}}">
@@ -15,6 +18,7 @@
                                 </view>
                             </block>
                         </view>
+                        <!-- 图片添加按钮 -->
                         <block wx:if="{{files.length < max}}">
                             <view class="weui-uploader__input-box">
                                 <view class="weui-uploader__input" bindtap="chooseImage"></view>
@@ -26,6 +30,7 @@
         </view>
     </view>
 </view>
+<!-- 上传按钮区域 -->
 <view class="weui-btn-area">
     <button class="weui-btn" type="primary" bindtap="bindUploadTap">上传</button>
 </view>
